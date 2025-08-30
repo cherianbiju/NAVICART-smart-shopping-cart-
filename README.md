@@ -21,7 +21,7 @@ It combines **Computer Vision, IoT, and AI** to create an intelligent cart that:
 ## 🛠 Tech Stack  
 - **Languages:** Python, C++ (RPi integration)  
 - **Computer Vision:** OpenCV, YOLOv5  
-- **Hardware:** Raspberry Pi / Arduino, Ultrasonic Sensors, Motors, Camera  
+- **Hardware:** Raspberry Pi, Ultrasonic Sensors, Motors, Camera  
 - **Algorithms:** Object Detection, Dijkstra’s Pathfinding  
 - **Connectivity:** IoT 
 - **UI:** Tkinter / Web interface  
