@@ -40,6 +40,6 @@ It combines **Computer Vision, IoT, and AI** to create an intelligent cart that:
 ---
 
 ## 🎥 Demo Video  
-
+(CLICK THE PICTURE FOR VIDEO)
 [![Watch the Demo](Screenshot%202025-08-30%20112619.png)](NAVICART_VIDEO.mp4)  
 
